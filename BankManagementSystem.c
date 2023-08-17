@@ -85,5 +85,6 @@ int main(int argc, char const *argv[])
             break;
         }
 }
+printf('works fine..');
     return 0;
 }
